@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/* 기본선택자(selector) : 태그, id, class */
+.in {
+	background: pink;
+}
+
+body {
+	color: blue; /* 글자색 */
+}
+
+#b {
+	background: yellow;
+	color: red;
+}
+
+input {
+	font-size: 20px;
+}
